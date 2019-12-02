@@ -1,0 +1,2 @@
+sudo pacman -S python-pip wget git
+sudo pacman -S python-pyqt5 qt5-tools qt5-multimedia
